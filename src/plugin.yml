@@ -1,0 +1,5 @@
+name: Overwatch
+version: 1.0
+main: me.momo.overwatch.OverwatchPlugin
+commands:
+  overwatch:
